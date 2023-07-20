@@ -26,10 +26,6 @@ public class SimpleSelectSort {
                 int temp=a[min];
                 a[min]=a[i];
                 a[i]=temp;
-
-                System.out.println("hello,dev branch");
-                System.out.println("hello fix");
-
             }
         }
         return a;
