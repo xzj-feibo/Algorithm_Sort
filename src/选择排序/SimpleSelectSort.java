@@ -28,6 +28,7 @@ public class SimpleSelectSort {
                 a[i]=temp;
 
                 System.out.println("hello,dev branch");
+                System.out.println("hello fix");
 
             }
         }
