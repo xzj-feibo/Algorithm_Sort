@@ -27,7 +27,7 @@ public class SimpleSelectSort {
                 a[min]=a[i];
                 a[i]=temp;
 
-
+                System.out.println("hello,dev branch");
 
             }
         }
